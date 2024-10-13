@@ -1,0 +1,22 @@
+{
+  "cards": [
+    {
+      "id": "code-audit",
+      "title": "🔍 Code Audit",
+      "content": "Elevate your technology stack with a comprehensive Code Audit: the crucial foundation for modernization, enhanced performance, and sustainable growth. Uncover hidden opportunities and address potential issues to maximize your software's potential.",
+      "buttonText": "Learn More"
+    },
+    {
+      "id": "code-migration",
+      "title": "🚀 Progressive Migration",
+      "content": "Seamlessly integrate into your team to spearhead code migration efforts while empowering your existing staff through customized training programs. This collaborative approach ensures a smooth transition, enhances your team's skills, and accelerates your project's evolution.",
+      "buttonText": "Learn More"
+    },
+    {
+      "id": "fullstack-support",
+      "title": "🛠️ Fullstack Developer Support",
+      "content": "I can provide support to develop new features, fix bugs, or optimize your code. My expertise covers languages and technologies such as TypeScript, Node.js, GraphQL, and Python, ensuring comprehensive support from front-end to back-end for the success of your project.",
+      "buttonText": "Learn More"
+    }
+  ]
+}

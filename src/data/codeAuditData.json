@@ -1,0 +1,44 @@
+[
+  {
+    "icon": "Zap",
+    "problem": "Poorly structured or outdated code slows down developers and increases delays.",
+    "solution": "Code audit identifies redundancies, technical debt, and proposes solutions to streamline development processes.",
+    "impact": "Reduced development time, better collaboration, and faster onboarding of new developers.",
+    "title": "Improving team productivity"
+  },
+  {
+    "icon": "Bug",
+    "problem": "Frequent bugs increase maintenance costs and can harm the company's image.",
+    "solution": "The audit detects vulnerabilities, security flaws, and risk areas in the code.",
+    "impact": "Decreased service interruptions, improved application stability, and reduced expenses related to fixes.",
+    "title": "Reducing bugs and incidents"
+  },
+  {
+    "icon": "TrendingUp",
+    "problem": "Current code may not be optimized to support the company's future growth.",
+    "solution": "The audit verifies if the code is ready to support a growing volume of users and features.",
+    "impact": "Ensured scalability, preparation for traffic spikes, and addition of new features without performance impact.",
+    "title": "Scalability and preparation for growth"
+  },
+  {
+    "icon": "DollarSign",
+    "problem": "Poorly optimized code can lead to high operating costs (infrastructure, maintenance, development time).",
+    "solution": "The audit identifies areas for improvement to optimize resource utilization (infrastructure, API).",
+    "impact": "Reduced operating costs, optimized server resources, and smart investment in the right technologies.",
+    "title": "Reducing long-term costs"
+  },
+  {
+    "icon": "Users",
+    "problem": "Teams may be limited by their knowledge of current best practices in development.",
+    "solution": "In addition to the audit, specific training on improved points allows for the strengthening of internal developers' skills.",
+    "impact": "More autonomous and competent team, better ability to maintain clean and evolving code, reduced dependence on external providers.",
+    "title": "Team training and skill development"
+  },
+  {
+    "icon": "Laptop",
+    "problem": "Many companies want to modernize their stack to integrate new technologies (cloud, microservices, AI).",
+    "solution": "Code audit can be the first step to understand what can be optimized for a successful migration to modern architectures like the cloud or microservices.",
+    "impact": "Facilitating digital transformation, laying the groundwork for adopting innovative technological solutions without major disruption.",
+    "title": "Preparing for digital transformation"
+  }
+]
