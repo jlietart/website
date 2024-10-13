@@ -6,6 +6,14 @@ interface CalendlyButtonProps {
   url: string;
 }
 
+declare global {
+  interface Window {
+    Calendly: {
+      initPopupWidget: (options: { url: string }) => void;
+    };
+  }
+}
+
 export function CalendlyButton({ url }: CalendlyButtonProps) {
   const handleClick = () => {
     window.Calendly.initPopupWidget({
@@ -22,7 +30,7 @@ export function CalendlyButton({ url }: CalendlyButtonProps) {
       >
         <Video className="w-6 h-6 sm:w-7 sm:h-7 text-blue-400 group-hover:text-purple-500 transition-colors duration-300 flex-shrink-0" />
         <span className="text-blue-400 group-hover:text-blue-300 transition-colors duration-300 whitespace-nowrap">
-          Let's talk !
+          Let&apos;s talk !
         </span>
       </Button>
     </div>

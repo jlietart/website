@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <div className="text-center mx-auto border-b border-gray-700 w-full">
       <h1 className="text-3xl sm:text-4xl md:text-5xl font-bold mb-8 text-gradient bg-clip-text text-transparent bg-gradient-to-r from-blue-400 to-purple-500">
-        👋 Hi, I'm Julien, I help businesses to <br />
+        👋 Hi, I&apos;m Julien, I help businesses to <br />
         <span className="inline-flex items-center">
           <RotatingWords
             words={[
